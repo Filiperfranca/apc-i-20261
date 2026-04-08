@@ -14,7 +14,7 @@ int main(void)
     valor[0] = 39.99;
     valor[1] = 89.90;
     valor[2] = 19.99;
-    valor[3] = valor[0] + valor[1] + valor[3];
+    valor[3] = valor[0] + valor[1] + valor[2];
 
     printf("==============================\n");
     printf("      N O T A    L E G A L\n");
